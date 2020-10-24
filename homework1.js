@@ -55,9 +55,12 @@
 // 5)	Choose longest string from the array. [‘Karol’, ‘Adam’,’Rogowski’,’Politechnika’,’Super’,’Weekend’]. 
 
 // let array2 = ["Karol", "Adam","Rogowski","Politechnika","Super","Weekend"];
+// let a;
 // for (i = 0; i < array2.length; i++) {
-
-// }
+   
+//     a = array2[i].length;
+//     console.log(a)
+//     }
 
 // 6)	Choose all the indexes on the highest value from the given array. [1,6,23,8,4,98,3,7,3,98,4,98].
 
