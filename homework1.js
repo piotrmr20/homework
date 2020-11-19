@@ -108,7 +108,7 @@
 
 // for (let i = 1; i < array4.length; i++) {
 
-// if ((array4.indexOf(array4[i] , 1) % 2) > 0 ) {
+// if ((i % 2) > 0 ) {
 
 //     continue;} 
 //     else {
